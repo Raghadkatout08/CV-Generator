@@ -17,8 +17,7 @@
                                                     
       Company Name:{company_name}  
       Job Title:{job_title}                   
-      Summary of your key responsibilities:          
-      {you_responsibilities}                         
+      Summary of your key responsibilities: {you_responsibilities}                         
                                                     
                
 ==[ Skills ]========================================================                                  
@@ -36,4 +35,4 @@
                                   ──────▄▀▄─────▄▀▄
                                   ─────▄█░░▀▀▀▀▀░░█▄
                                   ─▄▄──█░░░░░░░░░░░█──▄▄
-                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
+                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█        
