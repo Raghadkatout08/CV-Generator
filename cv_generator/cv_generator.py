@@ -2,10 +2,15 @@ with open('assests/cv_template.txt', 'r') as file:
     file_read = file.read()
     print(file_read)
 
+print("Welcome to the CV Generator!")
+print("Please Provide the following information to generate your CV.")
+
+
 user_input = {}
 
 user_input['Name'] = input("Enter your name : ")
 user_input['phone_number'] = input("Enter your phone number : ")
+user_input['email'] = input("Enter your email : ")
 user_input['city'] = input("Enter your city : ")
 user_input['university_name'] = input("Enter your university name : ")
 user_input['major'] = input("Enter your university major : ")
@@ -21,3 +26,13 @@ user_input['Arabic_language_level'] = input("Enter your Arabic_language_level : 
 user_input['English_language_level'] = input("Enter your English_language_level : ")
 
 print(user_input)
+
+
+cv_info = file_read.format(**user_input)
+
+print("\n Your Info: ")
+print(cv_info)
+
+with open('assests/update_CV.txt' , 'w') as output_file:
+    output_file.write(cv_info)
+
