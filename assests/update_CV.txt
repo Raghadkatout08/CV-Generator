@@ -1,38 +1,38 @@
 ==================================================================== 
-      Raghad                                                                           
+      R                                                                           
                                                     
-      Phone Number: 0791569432                   
-      Email: raghadkatout67@gmail.com                                 
-      City: Amman                                   
+      Phone Number:                    
+      Email: c                                 
+      City: c                                   
                                                      
              
 ==[ Education ]=====================================================                                     
                                                     
-      University Name:WISE  
-      Major in:SE              
-      Graduation Date:2023              
+      University Name:c  
+      Major in:              
+      Graduation Date:d              
                                                     
                 
 ==[ Experience ]====================================================         
                                                     
-      Company Name:Null  
-      Job Title:Web developer                    
+      Company Name:d  
+      Job Title:c                   
       Summary of your key responsibilities:          
-      Null                         
+      dfd                         
                                                     
                
 ==[ Skills ]========================================================                                  
                                                     
-      - JS                        
-      - Python                                     
-      - React                                      
-      - Node.js                                     
+      - f                        
+      -                                      
+      - g                                     
+      - df                                     
                                          
                                                     
 ==[ Languages ]=====================================================         
                                                                                                                                       
-      Arabic:Native                       
-      English:very goof                      
+      Arabic:fg                       
+      English:g                      
                                   ──────▄▀▄─────▄▀▄
                                   ─────▄█░░▀▀▀▀▀░░█▄
                                   ─▄▄──█░░░░░░░░░░░█──▄▄
