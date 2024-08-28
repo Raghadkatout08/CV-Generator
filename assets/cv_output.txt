@@ -1,38 +1,39 @@
 ==================================================================== 
       Raghad                                                                           
                                                     
-      Phone Number: 07999                   
-      Email: raghad@gmail.com                                 
-      City: amman                                   
+      Phone Number: 0798255655                 
+      Email: Raghad@gmail.com                                 
+      City: Amman                                   
                                                      
              
 ==[ Education ]=====================================================                                     
                                                     
-      University Name:WISE  
-      Major in:SE              
-      Graduation Date:202              
+      University Name: WISE
+      Major in: SE              
+      Graduation Date: 2023            
                                                     
                 
 ==[ Experience ]====================================================         
                                                     
-      Company Name:NULL  
-      Job Title:WEB DEV                   
-      Summary of your key responsibilities: null                         
+      Company Name:LTUC  
+      Job Title:Python                   
+      Summary of your key responsibilities:          
+      full stack                        
                                                     
                
 ==[ Skills ]========================================================                                  
                                                     
-      - 1                        
-      - 2                                     
-      - 3                                     
-      - 4                                     
+      - Next js                        
+      - python                                     
+                                  
                                          
                                                     
 ==[ Languages ]=====================================================         
                                                                                                                                       
-      Arabic:1                       
-      English:2                      
+      Arabic:native                       
+      English:B1                      
+
                                   ──────▄▀▄─────▄▀▄
                                   ─────▄█░░▀▀▀▀▀░░█▄
                                   ─▄▄──█░░░░░░░░░░░█──▄▄
-                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█        
+                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█

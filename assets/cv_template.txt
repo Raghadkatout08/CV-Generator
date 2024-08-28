@@ -1,38 +1,40 @@
 ==================================================================== 
-      {Name}                                                                           
+      abdullah                                                                           
                                                     
-      Phone Number: {phone_number}                   
-      Email: {email}                                 
-      City: {city}                                   
+      Phone Number: 1234567890                   
+      Email: abdullah@gmail.com                                 
+      City: amman                                   
                                                      
              
 ==[ Education ]=====================================================                                     
                                                     
-      University Name:{university_name}  
-      Major in:{major}              
-      Graduation Date:{graduation_date}              
+      University Name:LTUC  
+      Major in:SE              
+      Graduation Date:2025              
                                                     
                 
 ==[ Experience ]====================================================         
                                                     
-      Company Name:{company_name}  
-      Job Title:{job_title}                   
-      Summary of your key responsibilities: {you_responsibilities}                         
+      Company Name:LTUC  
+      Job Title:SE                   
+      Summary of your key responsibilities:          
+      full-stack web deve                         
                                                     
                
 ==[ Skills ]========================================================                                  
                                                     
-      - {skill-01}                        
-      - {skill-02}                                     
-      - {skill-03}                                     
-      - {skill-04}                                     
+      - java                        
+      - python                                     
+      - react                                     
+      - exprees                                     
                                          
                                                     
 ==[ Languages ]=====================================================         
                                                                                                                                       
-      Arabic:{Arabic_language_level}                       
-      English:{English_language_level}                      
+      Arabic:native                       
+      English:good                      
+
                                   ──────▄▀▄─────▄▀▄
                                   ─────▄█░░▀▀▀▀▀░░█▄
                                   ─▄▄──█░░░░░░░░░░░█──▄▄
-                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█        
+                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
